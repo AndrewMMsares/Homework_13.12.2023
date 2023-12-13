@@ -16,3 +16,4 @@ elif choice == "avg":
     print("Arithmetic average: ", result)
 else:
     print("Wrong question!")
+
